@@ -2,3 +2,4 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python
 - 📫 How to reach me mhdtarekalkasemi@gmail.com
+- 😄 bruh
