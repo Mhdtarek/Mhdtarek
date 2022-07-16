@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **svelte**
 
-- 📫 How to reach me **mhdtarekalkasemi@gmail.com**
+- 📫 How to reach me on twitter @mhdtarekT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
