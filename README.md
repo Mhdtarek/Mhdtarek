@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **svelte and javascript**
 
-- 📫 How to reach me **mhdtarekalkasemi@gmail.com**
+- 📫 How to reach me **Tarek#2439**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
