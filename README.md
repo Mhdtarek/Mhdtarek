@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte and Firebase**
 
-- 🤝 I’m looking for help with **firebase**
+- 🤝 I’m looking for help with **backend**
 
 - 💬 Ask me about **svelte and javascript**
 
