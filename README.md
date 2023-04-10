@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **svelte and javascript**
 
-- 📫 How to reach me **Tarek#2439**
+- 📫 How to reach me **Tarek#2439** (discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
