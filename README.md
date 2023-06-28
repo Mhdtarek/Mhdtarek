@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte and Styling**
 
-- 💬 Ask me about **Svelte and firebase**
+- 💬 Ask me about **Svelte and SvelteKit**
 
 <h3 align="left">Connect with me:</h3>
 Discord: tarek#6519
